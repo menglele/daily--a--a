@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>kkkkk</title>
+
+		
+
+    </head>
+    <body bgcolor="#aaa"  text="black">
+
+    
+		<li>ลฃฤฬ</li><li>ฒโสิ</li>
+		<li>ฟงทศ</li>
+	</ul>
+	<ol>
+		<li>ฟงทศ</li> <li>ฒโสิ</li>
+		<li>ลฃฤฬ</li>
+		<li>ฟ๓ศชหฎ</li>
+	</ol>
+	<img src = "F:/photo/210457.gif" width="552"height"552"  >
+
+
+
+    </body>

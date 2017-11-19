@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>kkkkk</title>
+
+		
+
+    </head>
+    <body bgcolor="#aaa"  text="black">
+
+    
+
+	
+	<h5>数字列表：</h5>
+	<ol>
+	 <li>苹果</li>
+	 <li>香蕉</li>
+	 <li>柠檬</li>
+	 <li>桔子</li>
+	</ol>  
+	<h5>字母列表：</h5>
+	<ol type="A">
+	 <li>苹果</li>
+	 <li>香蕉</li>
+	 <li>柠檬</li>
+	 <li>桔子</li>
+	</ol>  
+	<h5>小写字母列表：</h5>
+	<ol type="a">
+	 <li>苹果</li>
+	 <li>香蕉</li>
+	 <li>柠檬</li>
+	 <li>桔子</li>
+	</ol>  
+	<h5>罗马字母列表：</h5>
+	<ol type="I">
+	 <li>苹果</li>
+	 <li>香蕉</li>
+	 <li>柠檬</li>
+	 <li>桔子</li>
+	</ol>  
+	<h5>小写罗马字母列表：</h5>
+	<ol type="i">
+	 <li>苹果</li>
+	 <li>香蕉</li>
+	 <li>柠檬</li>
+	 <li>桔子</li>
+	</ol>  
+
+
+
+    </body>
